@@ -1,3 +1,7 @@
+# Visiting this demo app through
+
+https://gdlab-chart-demo.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) + Eslint + stylelint + Prettier

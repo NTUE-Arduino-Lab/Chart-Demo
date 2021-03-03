@@ -22,6 +22,15 @@ const dummyLine = {
         '13:30',
       ],
     },
+    markers: {
+      size: 6,
+      strokeWidth: 3,
+      fillOpacity: 0,
+      strokeOpacity: 0,
+      hover: {
+        size: 8,
+      },
+    },
   },
   series: [
     {
